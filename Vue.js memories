@@ -1,0 +1,31 @@
+Laracast Tutorial
+
+Chp1 Hello Databinding 
+	V-model
+	Var vue = new Vue({el:#element,data:dataaaObject})
+<pre>{{$data |json }}</pre>
+
+Chp 2 Vue Show
+	V-if 
+	V-show
+	
+Chp3 Event Handling
+	V-on:click
+	V-on:submit
+	New Vue(el:******,data:&&&&&&, METHODS:{method1: function(){}})
+	@submit.prevent (event modifier)
+inside methods you can refer to your entities on data by “this”
+
+Chp 15 - Managing Custom Events
+	$dispatch (Up the chain)
+	$broadcast (Down the chain)
+	v-on:componentMethod=”parentMethod”
+	
+Chp 17 - Vue Transitions and Animations 
+	Animation.css
+	class=”animated”
+Transition = “fade”
+Vue.transition(‘fade’,{
+	enterClasss:’nombreEfecto’,
+	leaveClass:’nombreEfecto’
+});
