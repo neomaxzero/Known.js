@@ -47,4 +47,28 @@ Render()
     ex.
       Header
         Title
+        
+#4 State Vs Props & Application Data
+
+  State:
+    -it lives in the component (only there), when the state change automatically dispatch a re-render on the neccessary dom-tree.
+  
+      constructor(){
+        super();
+        this.state = {name: 'Maxi'};
+      }
+      
+    -you can access to it in the this.state.name object.
+    
+    -you can change it by this.setState({name:'Not Maxi'});
+    
+  
+  Props:
+    Are injected in components
+    passing throug the component as an HTML attribute. 
+      <Title title='Mi Titulo'/>
+      
+    provided by the object this.props.attribute
+      this.props.title
+    
     
