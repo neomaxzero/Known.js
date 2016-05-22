@@ -70,5 +70,33 @@ Render()
       
     provided by the object this.props.attribute
       this.props.title
+      
+  #5 Javascript Events & Data changes in react.
+    - Added an input to change the title
+    -Create the method to set the state
+        this.setState({title});
+        
+    we create a propertie where we pass the function of the parent to the child, so the child can trigger changes FROM the parent    
+    ex
+      
+          changeTitle="this.setTitle.bind(this)"
+          
+    Then in the child we create a component that have to change the state, so we can call the function reacently created to let his re render
+        onChange="this.handleChange.bind(this)"
+        
+      And then we add a method.  
+      handleChange(e){
+        this.props.changeTitle(e.target.value);
+      }
+      
+    NOTE: PROPERTIES PASS AS EVALUATED JS so it can bind the correct handlers
     
+      value={this.props.title} instead of value="this.props.title"
+      
+  #6 React router & intro to single page aplication.
+  
+    npm i -S react-router
+    npm i -S history@1
+    import {Router,Route,IndexRoute,hashHistory} from "react-router"
+      
     
