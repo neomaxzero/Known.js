@@ -97,6 +97,25 @@ Render()
   
     npm i -S react-router
     npm i -S history@1
-    import {Router,Route,IndexRoute,hashHistory} from "react-router"
+    import {Router,Route,IndexRoute,hashHistory} from "react-router" in the main FILE
+    - Instead of rendering our component we are gonna render Router
+      <Router></Router>
+    - We are also gonna bootstrap "history"
+      <Router history={hashHistory}></Router>
+      
+    - Then inside the Router markup we have to declare our routes we the following sintax
+      <Route path='/' component={Layout}/>
+    - Within our path we can declare an IndexRoute which would be render like a primary children
+      <IndexRoute component={Example} ></IndexRoute>
+    - Adding routes children to the main path its easy as adding the "Route" markup
+      <Route path='About' component={About}>
+    - After that we can import Link from react-router and call to a child component
+      <Link to='Main'> JSX BUTTON </Link>
+    - Finally we can choose where to render this components with the prop
+      {this.props.children}
+    
+    
+      
+      
       
     
