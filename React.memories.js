@@ -113,6 +113,15 @@ Render()
       <Link to='Main'> JSX BUTTON </Link>
     - Finally we can choose where to render this components with the prop
       {this.props.children}
+      
+  #7 React Router Params & queries
+      <Route path='about/:miCasa' component={Layout}/>   --> It won't match #/about because its have to be specific
+        (optional)
+        to render the params we can inspect
+          this.params.miCasa
+      Queries
+        this.props.location here it is every QUERY >D>d>
+    
     
     
       
