@@ -1,0 +1,12 @@
+
+#CSS 
+  Position Attribute
+    absolute: its absolute according to their parent WHICH is positionated.
+    relative: Don't affect the flow of the contigous elements.
+    fixed
+    static (default)
+    
+    top/left/right/bottom attribute -> change its position 
+    z-index: 
+    
+    
