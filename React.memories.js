@@ -123,8 +123,19 @@ Render()
         this.props.location here it is every QUERY >D>d>
     
     
-    
+  #8 React Inline Style & Component Arrays
+    You can add inline style and then refer to a style variable in the same container 
+      style={containerStyle}
       
+      const {containerStyle = {
+        marginTop:'60px'
+      }
+      
+    Component Arrays
+      Create an array of components with map
+        const Articles = ['maxi','pao','hola'].map((title,i)=><Article key={i} title={title})
+      }
+  
       
       
     
