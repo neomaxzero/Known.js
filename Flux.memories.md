@@ -19,17 +19,17 @@ Basically all stores are hearing from them and when the dispatch emits an event 
     npm i -S flux
   
 ####Create a dispatcher file.
-  ```
+  ```javascript
     import {Dispatcher} from 'flux';
 
     export default new Dispatcher;
   ```
 ####Import from  all stores
-```
+```javascript
   import dispatcher from '../dispatcher';
 ```  
 ####Register a Handle method && Add handle method
-```
+```javascript
   dispatcher.register(todoStore.handleActions.bind(todoStore));
   
   handleActions(action){
