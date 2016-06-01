@@ -42,3 +42,21 @@ Basically all stores are hearing from them and when the dispatch emits an event 
 
     }
 ```
+
+##Flux Actions 
+
+It works as an intermediate resource betweeen components and stores. It main purpose its crafting message that will be emitted through the dispatcher. Consider that everry change *SHOULD* begin within actions so everyone get notice about it.
+
+### Import dispatcher && export actions of that component
+```javascript
+
+import dispatcher from '../dispatcher';
+
+export function createTodo(text){
+  dispatcher.dispatch({
+    type:'CREATE_TODO',
+    text
+  })
+}
+```
+
