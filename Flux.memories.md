@@ -8,8 +8,12 @@ In our todo exercise we will create a TodoStore file and import the EventEmitter
 
 
 ##Events
-ComponentWillMount is a react lyfecicle method that will automatically excute when components were mounted the first time.
+*ComponentWillMount* is a react lyfecicle method that will automatically excute when components were mounted the first time.
 Its ideal to attach all the events listener.
+
+*componentWillUnmount* is executed when the dom-tree changes and the component no longer need to be render. 
+It's very important to removeListener while changing the page to avoid memory  leaks.
+
 
 ##The Flux Dispatcher
 
@@ -62,3 +66,5 @@ export function createTodo(text){
 ###Async operations
 When fetching data from an outside resource(ex. HTTP requests) you want to make sure to complete the operation before you dispatch events with your data loaded.
 meanwhile could be very handful to emit an event while fetching data to ensure that your user receive some sort of feed back that its petition is being treated by the application.
+
+
