@@ -59,4 +59,6 @@ export function createTodo(text){
   })
 }
 ```
-
+###Async operations
+When fetching data from an outside resource(ex. HTTP requests) you want to make sure to complete the operation before you dispatch events with your data loaded.
+meanwhile could be very handful to emit an event while fetching data to ensure that your user receive some sort of feed back that its petition is being treated by the application.
