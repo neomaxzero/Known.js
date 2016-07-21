@@ -18,4 +18,9 @@
 
 [Picturefill](https://scottjehl.github.io/picturefill/)
 
+### Articles
+
+[The conjoined triangles of senior level developers](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-20) 
+> Points: 6/10 points 
+
 
