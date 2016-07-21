@@ -61,3 +61,4 @@ function Guy(name, awesome) {
 
 var guy = new Guy("John", true);
 ```
+> Subtle difference than the previous one, not returning the function, just invoking inside the prototype  
