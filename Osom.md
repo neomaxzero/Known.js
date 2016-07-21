@@ -12,6 +12,8 @@
 
 > Rescued: Compress images ALWAYS, optimize fonts, use active loading (choose what to do while fetching data).
 
+[A comprehensive guide to font-loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-20)
+
 ### Libraries
 
 [Picturefill](https://scottjehl.github.io/picturefill/)
