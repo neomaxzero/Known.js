@@ -19,5 +19,10 @@
   *The Reducer function*
   The state mutation in your app need to be describe as a pure function, that takes the previous state and the action being dispatched and return the next state.
   Not modifying the previous sate it has to return a new object.
+
+## 5 
+  * Reducer with test*
+  A very important consideration is to start writing the test for your reducer, and to test the case when the initial state is undefined.
+  A convention is to think about setting the initial state when is undefined.
   
   
