@@ -11,3 +11,13 @@
   Only requirement is that it needs a "type" property.
   Strings are recomended because are serializable.
 
+## 3 
+  *Pure functions*
+  Functions that dont depend upon external resources that might change their expected behaviour. Every function that does not follow this principal is impure.
+  
+## 4
+  *The Reducer function*
+  The state mutation in your app need to be describe as a pure function, that takes the previous state and the action being dispatched and return the next state.
+  Not modifying the previous sate it has to return a new object.
+  
+  
