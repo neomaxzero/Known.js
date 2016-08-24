@@ -15,8 +15,10 @@
 [A comprehensive guide to font-loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-20)
 
 ### Libraries
-
+## Frontend
 [Picturefill](https://scottjehl.github.io/picturefill/)
+## Backend
+[Serverless platform](http://www.open-lambda.org/doc.htm)
 
 ### Articles
 
