@@ -31,12 +31,14 @@
 - [Why we moved from multiple git repos to a monorepo and how we set it up](https://hackernoon.com/one-vs-many-why-we-moved-from-multiple-git-repos-to-a-monorepo-and-how-we-set-it-up-f4abb0cfe469)
 - [From Monolith to Microservice Architecture on Kubernetes, part 2 — Authentication with JWT](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-2-authentication-with-jwt-934ea030923)
 - [domInteractive: is it? really? | High Performance Web Sites](http://www.stevesouders.com/blog/2015/08/07/dominteractive-is-it-really/)
+- [Webpack 4 config super post](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
 
 #### React
 
 - [Introduction · React Bits](https://vasanthk.gitbooks.io/react-bits/)
 - [acdlite/react-fiber-architecture: A description of React's new core algorithm, React Fiber](https://github.com/acdlite/react-fiber-architecture)
 - [Building large scale react applications in a monorepo](https://medium.com/@luisvieira_gmr/building-large-scale-react-applications-in-a-monorepo-91cd4637c131)
+- [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68)
 
 #### Short
 
