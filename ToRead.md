@@ -15,13 +15,6 @@
 
 - [Valve_Handbook_LowRes.pdf](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
-### Startups
-
-- [Here’s what I started watching instead](https://blog.yalabot.com/i-got-sick-of-commoditized-content-for-entrepreneurs-heres-what-i-started-watching-instead-cdf9a5b28652#.w690phk0e)
-- [There’s no such thing as motivation – The Startup – Medium](https://medium.com/swlh/theres-no-such-thing-as-motivation-e02edd7de30)
-- [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
-- [Focusing - Everything I know](https://wiki.nikitavoloboev.xyz/focusing)
-
 ### Frontend
 
 #### Long
@@ -43,9 +36,4 @@
 
 #### Short
 
-- [Home | Laws of UX](https://lawsofux.com/)
 - [Test Doubles - Fakes, Mocks and Stubs.](https://dev.to/milipski/test-doubles---fakes-mocks-and-stubs)
-
-## Startups
-
-## 20min
