@@ -22,5 +22,5 @@
 
 ## 4
 
-- [Funda](https://www.pararius.nl/koopwoningen/nederland/bouwjaar-1990/150000-250000/75m2/kaart?zoom=11.13844&center=4.44767%2C51.91892)
-- [Pararius](https://www.pararius.nl/koopwoningen/nederland/150000-250000/75m2/kaart?zoom=11.13844&center=4.44767,51.91892)
+- [Funda](https://www.funda.nl/en/kaart/koop/heel-nederland/beschikbaar/150000-250000/75+woonopp/1-dag/?zoom=8&center=52.132404237145415,5.120035437438273)
+- [Pararius](https://www.pararius.nl/koopwoningen/nederland/bouwjaar-1990/150000-250000/75m2/kaart?zoom=11.30293&center=4.44286%2C51.9185)
