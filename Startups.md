@@ -10,3 +10,4 @@
 - [There’s no such thing as motivation – The Startup – Medium](https://medium.com/swlh/theres-no-such-thing-as-motivation-e02edd7de30)
 - [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
 - [Focusing - Everything I know](https://wiki.nikitavoloboev.xyz/focusing)
+- [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)
