@@ -5,7 +5,6 @@
 ## 1
 
 - [Trading latino](https://www.youtube.com/channel/UCLjSq1FapG5OgvHsDKinHdA/videos)
-- [The moon](https://www.youtube.com/channel/UCc4Rz_T9Sb1w5rqqo9pL1Og/videos)
 
 ## 2
 
