@@ -8,7 +8,6 @@
 
 ## 2
 
-- [Fooddy](https://analytics.google.com/analytics/web/#/report-home/a153132272w216333483p206672451)
 - [Pugmark](https://analytics.google.com/analytics/web/#/report-home/a143763927w205184678p198402045)
 - [Blog - GSC](https://search.google.com/search-console/performance/search-analytics?resource_id=sc-domain%3Am4x.io&num_of_days=7)
 
