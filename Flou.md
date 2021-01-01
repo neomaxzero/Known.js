@@ -13,8 +13,8 @@
 
 ## 3
 
-- [50w](https://docs.google.com/document/d/1PLAnwkjoSALmcztLziGGTKB5KpkoBX4A70MpbzLiNms/edit)
-- [Score](https://docs.google.com/spreadsheets/d/106TvtJKUW6pVu8hxxGso0fScMvXFSyr2n6YRKR8eQC0/edit#gid=0)
+- [50w](https://www.notion.so/Journal-2021-929a239d30ae448dbde37f15c01a78db)
+- [Score](https://pulse.m4x.io)
 
 ## 4
 
